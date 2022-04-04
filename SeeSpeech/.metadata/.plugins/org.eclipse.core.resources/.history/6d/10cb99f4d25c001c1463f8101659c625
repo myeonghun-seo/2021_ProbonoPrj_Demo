@@ -1,0 +1,25 @@
+package poly.persistence.redis.impl;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.stereotype.Component;
+
+import poly.persistence.redis.IMyRedisMapper;
+
+@Component("MyRedisMapper")
+public class MyRedisMapper implements IMyRedisMapper {
+	
+	@Autowired
+	public RedisTemplate<String, Object> redisDB;
+	
+	private Logger log = Logger.getLogger(this.getClass());
+	
+	
+	@Override
+	public void doSaveData() throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+}

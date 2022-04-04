@@ -1,0 +1,14 @@
+package poly.service.impl;
+
+import poly.service.IMyRedisService;
+
+@Service("MyRedisService")
+public class MyRedisService implements IMyRedisService {
+
+	@Override
+	public void doSaveData() throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+}

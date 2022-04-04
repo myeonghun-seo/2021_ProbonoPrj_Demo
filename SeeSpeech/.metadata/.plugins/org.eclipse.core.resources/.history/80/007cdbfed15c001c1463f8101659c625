@@ -1,0 +1,14 @@
+package poly.persistence.redis.impl;
+
+import poly.persistence.redis.IMyRedisMapper;
+
+@Component("MyRedisMapper")
+public class MyRedisMapper implements IMyRedisMapper {
+
+	@Override
+	public void doSaveData() throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+}

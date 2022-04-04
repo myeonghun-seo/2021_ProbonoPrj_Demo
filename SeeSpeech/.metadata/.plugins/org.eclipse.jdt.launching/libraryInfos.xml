@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\dodo0\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\jre" version="15.0.1"/>
+    <libraryInfo home="C:\Users\dodo0\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507" version="15.0.1"/>
+    <libraryInfo home="D:\Java\jre1.8.0_191\bin" version="1.8.0_191">
+        <bootpath>
+            <entry path="D:\Java\jre1.8.0_191\lib\resources.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\rt.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\sunrsasign.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\jsse.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\jce.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\charsets.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\jfr.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="D:\Java\jre1.8.0_191\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="D:\Java\jre1.8.0_191\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="D:\Java\jre1.8.0_191" version="1.8.0_191">
+        <bootpath>
+            <entry path="D:\Java\jre1.8.0_191\lib\resources.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\rt.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\sunrsasign.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\jsse.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\jce.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\charsets.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\lib\jfr.jar"/>
+            <entry path="D:\Java\jre1.8.0_191\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="D:\Java\jre1.8.0_191\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="D:\Java\jre1.8.0_191\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>

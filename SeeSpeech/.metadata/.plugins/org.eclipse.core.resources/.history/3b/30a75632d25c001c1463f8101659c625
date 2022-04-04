@@ -1,0 +1,21 @@
+package poly.persistence.redis.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+import poly.persistence.redis.IMyRedisMapper;
+
+@Component("MyRedisMapper")
+public class MyRedisMapper implements IMyRedisMapper {
+	
+	@Autowired
+	public redisTemplate<String, Object> redisDB;
+	
+	
+	@Override
+	public void doSaveData() throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+}
